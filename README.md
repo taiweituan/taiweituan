@@ -21,4 +21,4 @@ What I do:
 - FE Developer 💻
 - Casual Photographer 📷
 - Video Gamer 🎮
-- Snowboard Enthusiastic 🏂
+- Snowboarding Enthusiastic 🏂
