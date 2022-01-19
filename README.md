@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Greetings👋!
 
-I am Taiwei, from Taipei!
+I am Taiwei, comes from Taipei!
 
 What I do:
 - FE Developer 💻
