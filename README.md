@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Greetings👋!
+
+I am Taiwei, from Taipei!
+
+What I do:
+- FE Developer 💻
+- Casual Photographer 📷
+- Video Gamer 🎮
+- Snowboard Enthusiastic 🏂
