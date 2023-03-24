@@ -23,4 +23,4 @@ What I do:
 - Video Gamer 🎮
 - Snowboarding Enthusiastic 🏂
 
-[![Taiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiweituan)](https://github.com/taiweituan/github-readme-stats)
+[![Taiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiweituan&count_private=true)](https://github.com/taiweituan/github-readme-stats)
