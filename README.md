@@ -22,3 +22,5 @@ What I do:
 - Casual Photographer 📷
 - Video Gamer 🎮
 - Snowboarding Enthusiastic 🏂
+
+[![Taiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiweituan)](https://github.com/taiweituan/github-readme-stats)
