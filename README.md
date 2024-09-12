@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 Greetings👋!
 
-I am Taiwei, comes from Taipei!
+I am Taiwei, comes from Taipei! 
+
+I have been coding for 9 years and still going 🤓
 
 What I do:
 - FE Developer 💻
