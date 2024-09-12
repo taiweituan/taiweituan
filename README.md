@@ -23,6 +23,6 @@ What I do:
 - FE Developer 💻
 - Casual Photographer 📷
 - Video Gamer 🎮
-- Snowboarding Enthusiastic 🏂
+- Snowboarding hobbist 🏂
 
 <a href="https://stackoverflow.com/users/4549166/taiwei-tuan"><img src="https://stackoverflow.com/users/flair/4549166.png?theme=dark" width="208" height="58" alt="profile for Taiwei Tuan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Taiwei Tuan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
